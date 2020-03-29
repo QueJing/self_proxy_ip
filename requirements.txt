@@ -1,0 +1,5 @@
+requests
+PyQt5
+redis
+aiohttp==3.6.1
+nest_asyncio
